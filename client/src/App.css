@@ -1,0 +1,10 @@
+.breadcrumb {
+  display: flex;
+  margin-left: 20px;
+}
+
+.content-box {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}

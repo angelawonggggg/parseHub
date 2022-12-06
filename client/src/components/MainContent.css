@@ -1,0 +1,11 @@
+.content {
+    background-color: #e5e5e5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.content:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}

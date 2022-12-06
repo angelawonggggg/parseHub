@@ -1,0 +1,16 @@
+.breadcrumb-part {
+  padding-right: 5px;
+  color: #003B63;
+  margin-right: 2px;
+  
+}
+
+.breadcrumb-part:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.arrow {
+    margin: 0 5px;
+    color: black
+}
